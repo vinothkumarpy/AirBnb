@@ -65,11 +65,6 @@ Utilize Plotly to create interactive and informative visualizations for EDA, mak
 
 Contributions to this project are welcome! If you encounter any issues or have suggestions for improvements, please feel free to submit a pull request.
 
-**License**
-
-This project is licensed under the MIT License. Please review the LICENSE file for more details.
-
-
 **Contact**
 
 📧 Email: vinoharish8799@gmail.com 
