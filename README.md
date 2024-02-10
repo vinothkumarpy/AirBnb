@@ -1,4 +1,4 @@
-# Airbnb Analysis with Tableau
+# Airbnb Analysis
 
 **Introduction**
 
